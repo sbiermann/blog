@@ -31,15 +31,15 @@ favicon        = "img/avatar.png"
 
     [comments.giscus]
         repo             = "sbiermann/blog"
-        repoID           = ""
-        category         = "Announcements"
+        repoID           = "R_kgDOSmWmwQ"
+        category         = ""
         categoryID       = ""
-        mapping          = "title"
+        mapping          = "pathname"
         lightTheme       = "light"
         darkTheme        = "dark_dimmed"
         reactionsEnabled = 1
         emitMetadata     = 0
-        inputPosition    = "top"
+        inputPosition    = "bottom"
         lang             = "de"
         strict           = 0
         loading          = "lazy"
