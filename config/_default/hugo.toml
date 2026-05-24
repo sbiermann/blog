@@ -19,5 +19,3 @@ hasCJKLanguage         = false
     post = "/p/:slug/"
     page = "/:slug/"
 
-[services.disqus]
-    shortname = "hugo-theme-stack"
