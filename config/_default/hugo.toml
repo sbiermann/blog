@@ -1,0 +1,23 @@
+baseURL                = "https://blog.stefan-biermann.de/"
+locale                 = "de-de"
+title                  = "Meine Raspberry Pi Projekte"
+theme                  = "hugo-theme-stack"
+# Theme i18n support
+# See i18n folder for available languages
+defaultContentLanguage = "de"
+# Set hasCJKLanguage to true if DefaultContentLanguage is a CJK language
+# This will make .Summary and .WordCount behave correctly
+hasCJKLanguage         = false
+
+# [[module.imports]]
+#    path = "github.com/CaiJimmy/hugo-theme-stack/v3"
+
+[pagination]
+    pagerSize = 3
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
+
+[services.disqus]
+    shortname = "hugo-theme-stack"

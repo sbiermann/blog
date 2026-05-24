@@ -1,0 +1,7 @@
+[de]
+    label  = "Deutsch"
+    title  = "Meine Raspberry Pi Projekte"
+    weight = 1
+
+    [de.params.sidebar]
+        subtitle = "Meine Raspberry Pi Projekte"
