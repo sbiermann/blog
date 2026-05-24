@@ -1,6 +1,6 @@
 baseURL                = "https://blog.stefan-biermann.de/"
 locale                 = "de-de"
-title                  = "Meine Raspberry Pi Projekte"
+title                  = "Stefan Biermann – DIY Tech & HomeLab"
 theme                  = "hugo-theme-stack"
 # Theme i18n support
 # See i18n folder for available languages

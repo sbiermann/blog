@@ -7,7 +7,7 @@ favicon        = "img/avatar.png"
 
 [sidebar]
     emoji    = "🍓"
-    subtitle = "Meine Raspberry Pi Projekte"
+    subtitle = "Smart Home, 3D-Druck, IoT, Linux, Balkon-Solar und Maker-Projekte"
     avatar   = "img/avatar.png"
 
 [article]

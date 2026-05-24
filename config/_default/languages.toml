@@ -1,7 +1,7 @@
 [de]
     label  = "Deutsch"
-    title  = "Meine Raspberry Pi Projekte"
+    title  = "Stefan Biermann – DIY Tech & HomeLab"
     weight = 1
 
     [de.params.sidebar]
-        subtitle = "Meine Raspberry Pi Projekte"
+        subtitle = "Smart Home, 3D-Druck, IoT, Linux, Balkon-Solar und Maker-Projekte"
