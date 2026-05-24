@@ -10,6 +10,7 @@ favicon        = "img/avatar.png"
     emoji    = "⚙️"
     subtitle = "Smart Home, 3D-Druck, IoT, Linux, Balkon-Solar und Maker-Projekte"
     avatar   = "img/avatar.png"
+    siteDisplayName = "Stefan Biermann<br>DIY Tech & HomeLab"
 
 [article]
     [article.license]
