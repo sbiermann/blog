@@ -6,7 +6,7 @@ favicon        = "img/avatar.png"
     since = 2020
 
 [sidebar]
-    emoji    = "🍓"
+    emoji    = "⚙️"
     subtitle = "Smart Home, 3D-Druck, IoT, Linux, Balkon-Solar und Maker-Projekte"
     avatar   = "img/avatar.png"
 

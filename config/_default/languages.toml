@@ -1,6 +1,6 @@
 [de]
     label  = "Deutsch"
-    title  = "Stefan Biermann – DIY Tech & HomeLab"
+    title  = "DIY Tech & HomeLab"
     weight = 1
 
     [de.params.sidebar]
