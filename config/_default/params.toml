@@ -4,6 +4,7 @@ favicon        = "img/avatar.png"
 
 [footer]
     since = 2020
+    customText = "<a href='/transparenzhinweise/'>Transparenzhinweise</a>"
 
 [sidebar]
     emoji    = "⚙️"
