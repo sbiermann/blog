@@ -32,9 +32,9 @@ favicon        = "img/avatar.png"
     [comments.giscus]
         repo             = "sbiermann/blog"
         repoID           = "R_kgDOSmWmwQ"
-        category         = ""
-        categoryID       = ""
-        mapping          = "pathname"
+        category         = "General"
+        categoryID       = "DIC_kwDOSmWmwc4C9u0X"
+        mapping          = "title"
         lightTheme       = "light"
         darkTheme        = "dark_dimmed"
         reactionsEnabled = 1
