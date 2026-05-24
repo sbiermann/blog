@@ -3,8 +3,8 @@ rssFullContent = true
 favicon        = "img/avatar.png"
 
 [footer]
-    since = 2020
-    customText = "<a href='/transparenzhinweise/'>Transparenzhinweise</a>"
+    since = 2013
+    customText = "<a href='/transparenzhinweise/'>Transparenzhinweise</a> | <a href='/impressum/'>Impressum</a> | <a href='/datenschutz/'>Datenschutzerklärung</a>"
 
 [sidebar]
     emoji    = "⚙️"
