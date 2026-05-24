@@ -26,8 +26,13 @@ jobs:
         run: hugo --gc --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        if: github.ref == 'refs/heads/main'
+        uses: easingthemes/ssh-deploy@v5.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          SSH_PRIVATE_KEY: ${{ secrets.WEBSERVER_SSH }}
+          ARGS: "-rlgoDzvc -i --delete"
+          SOURCE: "public/"
+          REMOTE_HOST: "blog.stefan-biermann.de"
+          REMOTE_PORT: 22
+          REMOTE_USER: "strider"
+          TARGET: "~/blog/public"
+          EXCLUDE: "/dist/, /node_modules/"
